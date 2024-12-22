@@ -3,7 +3,7 @@ title: Introducing Magnoxium
 description: Your Budget-Friendly Game Server Hosting Solution
 slug: welcome
 date: 2024-12-22 00:00:00+0000
-image: cover.jpg
+image: cover.png
 categories:
     - Announcements
 tags:
