@@ -14,5 +14,9 @@ hasCJKLanguage = false
 # Change it to your Disqus shortname before using
 disqusShortname = ""
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-6S1ZDQB38V'
+
 [pagination]
 pagerSize = 5
