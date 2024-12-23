@@ -1,6 +1,6 @@
 ---
 title: Introducing Magnoxium 
-description: Your Budget-Friendly Game Server Hosting Solution
+description: High performance hosting on a budget
 slug: welcome
 date: 2024-12-22 00:00:00+0000
 image: cover.png
@@ -13,7 +13,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# Introducing Magnoxium: Your Budget-Friendly Game Server Hosting Solution
+# Introducing Magnoxium: Your High Performance Budget-Friendly Game Server Hosting Solution
 Calling all casual gamers and community leaders! We’re thrilled to announce the launch of **[Magnoxium](https://magnoxium.com)** — a brand-new platform dedicated to making game server hosting both **powerful** and **budget-friendly**. If you’ve been searching for a reliable server to host your ARK, Rust, or Palworld worlds (with Minecraft support on the way), you’ve come to the right place.
 
 ## How Magnoxium Stands Out
