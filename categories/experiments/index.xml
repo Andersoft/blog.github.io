@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experiments on Jordan Anderson</title><link>https://jordananderson.io/categories/experiments/</link><description>Recent content in Experiments on Jordan Anderson</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2025 07:21:00 +0000</lastBuildDate><atom:link href="https://jordananderson.io/categories/experiments/index.xml" rel="self" type="application/rss+xml"/><item><title>Can AI Take Over My Indie SaaS Marketing?</title><link>https://jordananderson.io/p/marketing-with-ai/</link><pubDate>Wed, 19 Feb 2025 07:21:00 +0000</pubDate><guid>https://jordananderson.io/p/marketing-with-ai/</guid><description>&lt;img src="https://jordananderson.io/p/marketing-with-ai/cover.jpeg" alt="Featured image of post Can AI Take Over My Indie SaaS Marketing?" />&lt;h1 id="can-ai-take-over-my-indie-saas-marketing-an-experiment-with-hostify">Can AI Take Over My Indie SaaS Marketing? An Experiment with Hostify
+&lt;/h1>&lt;p>Hello, and welcome to the very first update on my grand experiment! My name&amp;rsquo;s Jordan, and I&amp;rsquo;m the indie developer behind &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a>-a SaaS platform that lets gamers spin up dedicated servers for their favorite games at a fraction of the cost compared to other providers (you can read more about it &lt;a class="link" href="https://blog.hostify.ggp/p/welcome/" target="_blank" rel="noopener"
+>here&lt;/a>). In this blog post, I&amp;rsquo;ll walk you through why I&amp;rsquo;ve decided to hand over key parts of my marketing to AI (so I can focus more on coding!) and how I plan to measure whether AI-driven marketing can truly fuel &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&amp;rsquo;s&lt;/a> growth.&lt;/p>
+&lt;h2 id="why-an-ai-experiment">Why an AI Experiment?
+&lt;/h2>&lt;p>I wear all sorts of hats as an indie developer, and one of them is the marketing hat. But here&amp;rsquo;s the catch: I&amp;rsquo;d rather spend my time building awesome features and ensuring that &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a> is stable, scalable, and user-friendly. Marketing can be time-consuming-especially if you&amp;rsquo;re not a natural marketer. Currently, &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a> is still brand new, with few paying customers. By the end of 2025, we&amp;rsquo;d love to see 150 sign-ups (baby steps!), although we have no formal marketing plan in place. That&amp;rsquo;s where the AI experiment comes in.&lt;/p>
+&lt;p>Enter &lt;strong>ChatGPT&lt;/strong> and &lt;strong>Midjourney&lt;/strong>. These AI tools can help with:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Copywriting&lt;/strong> – Crafting engaging landing page text, blog posts (like this one), and social media updates.&lt;/li>
+&lt;li>&lt;strong>Lead Generation&lt;/strong> – Finding potential users, especially in gamer communities or tech groups.&lt;/li>
+&lt;li>&lt;strong>Marketing Campaigns&lt;/strong> – Writing email sequences, generating ad copy for Google, Reddit, and Instagram, and even suggesting marketing strategies.&lt;/li>
+&lt;li>&lt;strong>Graphic/Creative Design&lt;/strong> – Using Midjourney to quickly generate social media visuals, ad banners, and other eye-catching graphics.&lt;/li>
+&lt;/ol>
+&lt;p>If AI can successfully handle these tasks (or at least handle them well enough to get the word out about &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a>), it means I can concentrate on the coding side, ensuring &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a> is the best product it can be.&lt;/p>
+&lt;h2 id="setting-the-stage-goals--metrics">Setting the Stage: Goals &amp;amp; Metrics
+&lt;/h2>&lt;p>My primary metric for success is &lt;strong>sign-ups&lt;/strong>. By the end of 2025, I&amp;rsquo;m aiming for &lt;strong>150 users&lt;/strong> on &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a>. This might sound modest, but for a new indie project with no marketing plan, it&amp;rsquo;s a great starting point. If AI-driven efforts can help me hit that number-especially without me manually running marketing campaigns-then I&amp;rsquo;ll consider the experiment a success.&lt;/p>
+&lt;p>I&amp;rsquo;ll keep track of:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Number of Sign-Ups&lt;/strong> – My main KPI (Key Performance Indicator).&lt;/li>
+&lt;li>&lt;strong>Traffic Sources&lt;/strong> – Which ads or promotional channels bring the most visitors (and eventually users).&lt;/li>
+&lt;li>&lt;strong>Engagement&lt;/strong> – How often new sign-ups interact with the platform (though this might evolve later).&lt;/li>
+&lt;/ul>
+&lt;h2 id="the-ai-tools-of-the-trade">The (AI) Tools of the Trade
+&lt;/h2>&lt;h3 id="1-chatgpt">1. ChatGPT
+&lt;/h3>&lt;p>I&amp;rsquo;m planning to rely heavily on ChatGPT as my primary resource for marketing, especially since I have no prior marketing experience. My goal is to have it not only develop the overall strategy but also manage its ongoing execution. To make this possible, I need to create a self-sustaining feedback loop-one in which ChatGPT can continuously monitor the performance of its own ideas, assess what&amp;rsquo;s working (and what isn&amp;rsquo;t), and refine its approaches to improve future outcomes. This will most likely be built using &lt;a class="link" href="https://github.com/n8n-io/n8n" target="_blank" rel="noopener"
+>n8n&lt;/a>.&lt;/p>
+&lt;h3 id="2-midjourney">2. Midjourney
+&lt;/h3>&lt;p>When it comes to visuals, Midjourney is a powerhouse for generating unique, eye-catching images. These can be used for:&lt;/p>
+&lt;ul>
+&lt;li>Ad banners on Google, Reddit, or Instagram.&lt;/li>
+&lt;li>Social media posts to generate excitement about &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a>.&lt;/li>
+&lt;li>Website illustrations to further clarify &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&amp;rsquo;s&lt;/a> features.&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-the-experiment-will-run">How the Experiment Will Run
+&lt;/h2>&lt;p>I&amp;rsquo;m giving myself (and the AI) until the end of 2025 to see if we can reach the 150-user milestone. Here&amp;rsquo;s the rough plan:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Initial Setup&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>Automated workflow:&lt;/strong> Create an automated workflow in n8n to generate and monitor the success of each marketing idea.&lt;/li>
+&lt;li>&lt;strong>Implement AIs ideas&lt;/strong>: I&amp;rsquo;ll try to automate as much as possible, but some tasks-like paid ads, outreach messages, and social media posts-will still require human oversight.&lt;/li>
+&lt;li>&lt;strong>Website &amp;amp; Landing Pages:&lt;/strong> Polish up &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&amp;rsquo;s&lt;/a> homepage with AI-generated copy and visuals&lt;/li>
+&lt;li>&lt;strong>Social Media Profiles:&lt;/strong> Create or refine &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&amp;rsquo;s&lt;/a> presence on relevant platforms (X, Reddit, Instagram, etc.).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Monitor &amp;amp; Iterate&lt;/strong>
+&lt;ul>
+&lt;li>AI will keep an eye on sign-ups, ad performance, and user feedback, making adjustments as it sees fit.&lt;/li>
+&lt;li>If certain channels underperform or don&amp;rsquo;t make sense, I&amp;rsquo;ll step in and collaborate with the AI to develop new strategies or angles.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Evaluation&lt;/strong>
+&lt;ul>
+&lt;li>By the end of 2025, I&amp;rsquo;ll review the data to see if I&amp;rsquo;ve met the 150 sign-ups goal.&lt;/li>
+&lt;li>I&amp;rsquo;ll share a transparent breakdown of what worked, what didn&amp;rsquo;t, and how much time/effort the AI saved me.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="final-thoughts">Final Thoughts
+&lt;/h2>&lt;p>This experiment is a bit of a gamble-there&amp;rsquo;s no guarantee that AI marketing will be successful enough to meet my goals. But with &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a> still in its infancy, I&amp;rsquo;d rather take a bold leap than watch the product stay hidden in obscurity. If you&amp;rsquo;re curious about the process, I&amp;rsquo;ll be blogging about my progress regularly. You&amp;rsquo;ll see behind-the-scenes looks at my prompts, ad variations, and results.&lt;/p>
+&lt;p>If you&amp;rsquo;re a gamer or community leader, I invite you to check out &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a> for easy, affordable game servers. And yes, if you do sign up, you&amp;rsquo;ll be contributing to the success metrics of this very experiment!&lt;/p>
+&lt;p>&lt;strong>Ready to see how AI shapes the future of indie SaaS marketing-and maybe set up your own game server at the same time?&lt;/strong> Head over to &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify.GG&lt;/a> and be part of the journey.&lt;/p>
+&lt;p>Thank you for reading, and stay tuned for updates on whether AI can truly supercharge the growth of &lt;a class="link" href="https://hostify.gg" target="_blank" rel="noopener"
+>Hostify&lt;/a>. Here&amp;rsquo;s to hitting (or even exceeding) 150 sign-ups by the end of 2025!&lt;/p>
+&lt;p>&lt;em>Until next time, happy gaming and even happier experimenting!&lt;/em>&lt;/p></description></item></channel></rss>
